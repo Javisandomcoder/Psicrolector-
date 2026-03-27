@@ -1,0 +1,5 @@
+{
+  "name": "Psicrometría Pro",
+  "description": "Aplicación para el registro y análisis de lecturas de psicrómetros en múltiples zonas, con cálculo automático de humedad relativa y visualización de gráficos históricos.",
+  "requestFramePermissions": []
+}
